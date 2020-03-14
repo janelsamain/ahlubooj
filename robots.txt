@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://xeangezoog.toastoffee.com/sitemap.xml
